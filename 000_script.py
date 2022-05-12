@@ -73,7 +73,7 @@ max_valencies = [4,4,4,4,4,3,2,2]
 # C
 row1_all = generate_adj_rows([0], 3, 4, max_valencies)
 
-for row1 in row1_all[:5]:
+for row1 in row1_all:
     # C
     row2_valencies = np.subtract(max_valencies,row1)
     row2_LHS = [row1[1], 0]
