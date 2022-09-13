@@ -8,9 +8,7 @@ Drugbank structures to be downloaded from https://go.drugbank.com/releases and s
 
 To reproduce results and figures in the manuscript, download the repository and run all notebooks in ascending order of numeric prefixes. While it may be possible to run them out of order, certain code blocks will expect certain files produced by preceding notebooks, and fail if the file is absent, and a substitute is not provided.
 
-Most intended output file sizes exceed Github's support, and are provided at https://drive.google.com/drive/u/1/folders/1ecw-hD_zBuTfuVpWSQYYc_10UhOi3Ul8.
-
-
+Most intended input/output file sizes exceed Github's support, and are provided at https://drive.google.com/drive/u/1/folders/1ecw-hD_zBuTfuVpWSQYYc_10UhOi3Ul8. The organization of these files are identical to that of the repository. To use these files, download and place in the corresponding folders with the same name.
 
 The notebooks in the ./umap/ and ./late_stage_div/ folders will expect input data produced by notebooks in the parent directory, so running those first is recommended. Notebooks within these directories should also be run in ascending order of numeric prefixes.
 
