@@ -1,0 +1,7 @@
+rmat_tag,pdt_smiles
+5007984,C[15C][16C@@H](c1ccc(N2Cc3c(F)cccc3C2=O)cc1)[14C@@H](c1ccccc1F)[17C]([17O])[18O].[13C].[15N]
+5007991,C[15C][16C@@H](c1ccc(N2Cc3c(F)cccc3C2=O)cc1)[14C@H]([17C]=[17O])c1ccccc1F.[13C].[15N].[18O]
+5007994,C[15C][16C@@H](c1ccc(N2Cc3c(F)cccc3C2=O)cc1)[14C@@H](c1ccccc1F)[17C](=[17O])[18O].[13C].[15N]
+5007995,C[15C][16C@@H](c1ccc(N2Cc3c(F)cccc3C2=O)cc1)[14C@@H](c1ccccc1F)[17C](=[17O])[18O][15N].[13C]
+5008682,C[15C]1[18O][17C](=[17O])[14C@H](c2ccccc2F)[16C@@H]1c1ccc(N2Cc3c(F)cccc3C2=O)cc1.[13C].[15N]
+5009886,C[15C]([15N])[16C@@H](c1ccc(N2Cc3c(F)cccc3C2=O)cc1)[14C@@H](c1ccccc1F)[17C](=[17O])[18O].[13C]
