@@ -1,7 +1,7 @@
 import itertools
 from itertools import product
 import numpy as np
-import pickle
+# import pickle
 
 """
 enumerate, in this case, a 3-carbon, 2-oxygen, 1-nitrogen system
